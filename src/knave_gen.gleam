@@ -54,8 +54,12 @@ fn knave() -> glint.Command(Nil) {
 pub fn list_names (tables: List(#(String, List(String)))) -> Nil {
   case tables {
     [] -> Nil
-    [#(name, _), ..rest] -> {
-      io.println(name)
+    [#(a, _), #(b, _), #(c, _), #(d, _), #(e, _), #(f, _), #(g, _), ..rest] -> {
+      io.println(string.concat([a, ", ", b, ", ", c, ", ", d, ", ", e, ", ", f, ", ", g]))
+      list_names(rest)
+    }
+    [#(a, _), ..rest] -> {
+      io.println(a)
       list_names(rest)
     }
   }
