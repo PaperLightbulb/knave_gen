@@ -1,0 +1,241 @@
+
+ Actors’ guild 
+
+ Merchant cartel
+
+ Angelic army 
+
+ Midwife union
+
+ Art movement 
+
+ Militia
+
+ Art school 
+
+ Mining company
+
+ Assassins’ guild 
+
+ Monastery
+
+ Bandit troop 
+
+ Monster hunters
+
+ Banking corp 
+
+ Mothers
+
+ Barbarian horde 
+
+ Mutants
+
+ Bards’ guild 
+
+ National church
+
+
+ Beggars’ guild 
+
+Naval crew
+
+
+ Big game hunters 
+
+ Necromancers
+
+
+ Burgling crew 
+
+Noble house
+
+
+ Chimney sweeps 
+
+ Officers’ club
+
+
+ Circus troupe 
+
+ Oracles’ circle
+
+
+ City council 
+
+ Outlander clan
+
+
+ City guard 
+
+ Peacekeepers
+
+
+ Convent 
+
+ Philosophy club
+
+
+ Counterfeiters 
+
+ Pirate crew
+
+
+ Courtier faction 
+
+ Poachers
+
+
+Crafting guild 
+
+ Social movement
+
+
+ Crime family 
+
+ Political party
+
+
+Cult fanatics 
+
+ Ranger squad
+
+
+ Debate society 
+
+ Religious sect
+
+
+Demonic army 
+
+ Resistance
+
+
+ Deserter band 
+
+ Royal army
+
+
+Dragon cult 
+
+ Royal house
+
+
+ Druid circle 
+
+ Scholar’s circle
+
+
+Dungeoneer guild 
+
+ School faculty
+
+
+Elite warriors 
+
+ Secret society
+
+
+ Explorer’s club 
+
+Sewer people
+
+
+ Fencing school 
+
+ Smuggling ring
+
+
+ Fight club 
+
+Sports league
+
+
+ Fraternity 
+
+ Sports team
+
+
+ Free company 
+
+ Spy network
+
+
+ Gambling ring 
+
+ Street artists
+
+
+ Ghost society 
+
+ Street gang
+
+
+ Gladiator league 
+
+ Street musicians
+
+
+Gourmand club 
+
+ Student union
+
+
+ Gravediggers 
+
+Terrorist cell
+
+
+Healing order 
+
+Thieves’ guild
+
+
+ Heist crew 
+
+ Trade company
+
+
+Heretical sect 
+
+Urchin swarm
+
+
+ High council 
+
+ Vampire clan
+
+
+Hired muscle 
+
+Veteran society
+
+
+ Illuminati 
+
+ Vigilante league
+
+
+ Inquisition 
+
+Warlock pact
+
+
+ Knightly order 
+
+ Werewolf pack
+
+
+Living machines 
+
+Witch coven
+
+
+ Local watch 
+
+Wizard school
+
+
+ Mad scientists 
+
+Zombie horde

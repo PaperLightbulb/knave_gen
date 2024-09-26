@@ -1,0 +1,241 @@
+
+ Animal 
+
+ Key
+
+ Arc 
+
+ Knife
+
+ Archer 
+
+ Knight
+
+ Armor 
+
+ Mask
+
+ Arrow 
+
+ Mechanism
+
+ Aura 
+
+ Misc. item
+
+ Avalanche 
+
+ Monolith
+
+ Axe 
+
+ Monster
+
+ Beacon 
+
+ Mouth
+
+
+ Beam 
+
+Organ
+
+
+ Beast 
+
+ Path
+
+
+ Blade 
+
+Pit
+
+
+ Blast 
+
+ Pool
+
+
+ Blob 
+
+ Pulse
+
+
+ Bolt 
+
+ Pyramid
+
+
+ Bubble 
+
+Ray
+
+
+ Cage 
+
+ Rune
+
+
+ Carriage 
+
+ Sanctuary
+
+
+ Chain 
+
+ Serpent
+
+
+Chariot 
+
+ Servant
+
+
+ Circle 
+
+ Shield
+
+
+Cloak 
+
+ Skeleton
+
+
+ Clothing 
+
+ Skin
+
+
+Cloud 
+
+ Song
+
+
+ Coil 
+
+ Spear
+
+
+Colossus 
+
+ Sphere
+
+
+ Column 
+
+ Spider
+
+
+Cone 
+
+ Spike
+
+
+Crown 
+
+ Spray
+
+
+Cube 
+
+Staff
+
+
+ Disk 
+
+ Steed
+
+
+ Dragon 
+
+Storm
+
+
+ Eye 
+
+ Strike
+
+
+ Fang 
+
+ Structure
+
+
+ Finger 
+
+ Symbol
+
+
+ Fissure 
+
+Tangle
+
+
+ Fist 
+
+ Tool
+
+
+ Flood 
+
+Torrent
+
+
+ Fly 
+
+Touch
+
+
+Fountain 
+
+Tree
+
+
+ Gate 
+
+ Tunnel
+
+
+Gaze 
+
+Vortex
+
+
+ Geyser 
+
+ Wall
+
+
+Gloves 
+
+Wave
+
+
+ Guardian 
+
+ Weapon
+
+
+Hammer 
+
+Web
+
+
+ Hand 
+
+ Wheel
+
+
+Hawk 
+
+Whip
+
+
+Horn 
+
+Word
+
+
+Hound 
+
+Zone

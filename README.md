@@ -10,7 +10,6 @@ gleam add knave_gen@1
 import knave_gen
 
 pub fn main() {
-  // TODO: An example of the project in use
 }
 ```
 

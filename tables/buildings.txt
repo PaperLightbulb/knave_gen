@@ -1,0 +1,241 @@
+
+ Academy 
+
+ Locksmith
+
+ Alchemist 
+
+ Lounge
+
+ Apothecary 
+
+ Manor
+
+ Archive 
+
+ Marketplace
+
+ Armorer 
+
+ Mason
+
+ Art dealer 
+
+ Menagerie
+
+ Asylum 
+
+ Monastery
+
+ Baker 
+
+ Moneylender
+
+ Bank 
+
+ Museum
+
+
+ Barber 
+
+Observatory
+
+
+ Bathhouse 
+
+ Opera house
+
+
+ Blacksmith 
+
+Orphanage
+
+
+ Bookbinder 
+
+ Outfitter
+
+
+ Bookseller 
+
+ Palace
+
+
+ Boyer 
+
+ Park
+
+
+ Brewery 
+
+ Physician
+
+
+ Butcher 
+
+ Potter
+
+
+ Candlemaker 
+
+ Printer
+
+
+ Carpenter 
+
+ Prison
+
+
+Castle 
+
+Restaurant
+
+
+ Catacombs 
+
+ Rope maker
+
+
+Chandler 
+
+ Room
+
+
+ Cheesemaker 
+
+ Saddler
+
+
+Clockmaker 
+
+ Sewers
+
+
+ Clothier 
+
+ Shipyards
+
+
+Cobbler 
+
+ Shrine
+
+
+ Courthouse 
+
+ Slaughterhouse
+
+
+Criminal den 
+
+ Stables
+
+
+Curiosity shop 
+
+ Stockyard
+
+
+ Dock 
+
+Stonecarver
+
+
+ Dungeon 
+
+ Structure
+
+
+ Dyer 
+
+Tailor
+
+
+ Fighting pit 
+
+ Tannery
+
+
+ Fletcher 
+
+Tattooist
+
+
+ Fortune teller 
+
+ Taxidermist
+
+
+ Furrier 
+
+Temple
+
+
+ Gallery 
+
+ Theater
+
+
+Gambling hall 
+
+Tobacconist
+
+
+ Garden 
+
+Townhouse
+
+
+Gatehouse 
+
+University
+
+
+ Glassworks 
+
+ Veterinarian
+
+
+Goldsmith 
+
+Warehouse
+
+
+ Guildhall 
+
+ Watchtower
+
+
+Haberdashery 
+
+Watermill
+
+
+ Hospital 
+
+ Weapon smith
+
+
+ Inn 
+
+Weaver
+
+
+ Jeweler 
+
+ Windmill
+
+
+Law office 
+
+Winery
+
+
+ Leatherworks 
+
+Wizard’s tower
+
+
+ Library 
+
+Workshop

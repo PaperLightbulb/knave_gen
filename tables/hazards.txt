@@ -1,0 +1,101 @@
+
+ Acceleration 
+ Metal jaws
+ Acid 
+ Mold
+ Alarm
+ Molten gold
+ Alcohol
+ Molten iron
+ Animal 
+ Monster 
+ Arrow 
+ Mud
+ Automatons 
+ Mutation 
+ Avalanche 
+ Nail
+ Axe 
+ Needle
+ Bat 
+Noose
+ Blinding light
+ Ooze
+ Boiling tar 
+Phosphorus
+ Boiling water
+ Piano wire
+ Cold
+ Piranha
+ Crocodile
+ Poison
+ Crude oil 
+ Poison gas
+ Darkness 
+ Quicksand
+ Deafening noise 
+Radiation
+ Delusion
+Rage gas
+Delve shift 
+Rat
+ Disaster 
+ Sand
+Disease 
+ Saw
+ Drill 
+ Scissor
+Dust 
+ Sewage
+ Effect 
+ Shredder
+Electricity 
+ Sleeping gas
+ Element 
+ Smoke
+Fall 
+ Snake
+ Fear gas 
+ Spear
+ Fire 
+Spell 
+ Fire ant
+ Spider
+ Force field 
+Spike
+ Glass shard 
+ Spore
+ Glue 
+ Steam
+ Grease
+ Stench
+ Guillotine
+ Stone block
+ Hammer 
+ Sulfur
+Heat
+ Sword
+ Heavy gas
+Tar
+Hook 
+Thin air
+ Hot metal
+ Thorns
+Hot wax 
+Travel shift
+ Hydrogen 
+ Vacuum
+ Ice block
+Vine
+ Ink 
+ Wasps
+ Lantern oil
+Water
+ Lava
+ Weapon
+Log 
+Web
+ Magnet 
+Wet cement
+ Mercury
+Wind

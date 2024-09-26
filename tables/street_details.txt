@@ -1,0 +1,241 @@
+
+ Activity 
+
+ Livestock
+
+ Animals 
+
+ Long steps
+
+ Aqueduct 
+
+ Manure pile
+
+ Arcade 
+
+ Misc. items
+
+ Archway 
+
+ Mud
+
+ Awnings 
+
+ Narrow
+
+ Balconies 
+
+ Nobility
+
+ Barricades 
+
+ Oil spill
+
+ Benches 
+
+ Overgrown
+
+
+ Bonfire 
+
+Palanquins
+
+
+ Bricklayers 
+
+ Pickpockets
+
+
+ Bridge 
+
+Piles of rags
+
+
+ Broken glass 
+
+ Place trait
+
+
+ Building 
+
+ Pollen clouds
+
+
+ Canal 
+
+ Pool
+
+
+ Carpets 
+
+ Posters
+
+
+ Carriages 
+
+ Profession
+
+
+ Carts 
+
+Roof access
+
+
+ Catwalks 
+
+ Room detail
+
+
+Checkpoint 
+
+Roots
+
+
+ Children 
+
+ Ropes
+
+
+Chimneys 
+
+ Roundabout
+
+
+ Clergy 
+
+ Sand pile
+
+
+Climbable walls 
+
+ Scaffolding
+
+
+ Clotheslines 
+
+ Sewage
+
+
+Compost 
+
+ Sewer access
+
+
+ Crates 
+
+ Shrine
+
+
+Crowd 
+
+ Sinkhole
+
+
+Crumbling walls 
+
+ Skybridge
+
+
+ Dead end 
+
+Smoke
+
+
+ Dusty 
+
+ Spilled fruit
+
+
+ Entertainers 
+
+Statues
+
+
+ Fence 
+
+ Steam
+
+
+ Flooding 
+
+ Steep roofs
+
+
+ Food stalls 
+
+ Steep streets
+
+
+ Fountain 
+
+ Stepping stones
+
+
+ Fresh paint 
+
+ Street cleaners
+
+
+ Fungi 
+
+ Street criers
+
+
+ Gardens 
+
+Teens
+
+
+Gas leak 
+
+Tents
+
+
+ Gates 
+
+ Thugs
+
+
+Graffiti 
+
+Torches
+
+
+ Gravel 
+
+ Torn up street
+
+
+Guards 
+
+Trees
+
+
+ Hay bales 
+
+ Tunnel
+
+
+Hazard 
+
+Vermin swarms
+
+
+ Hot coals 
+
+ Weapon stalls
+
+
+Ladders 
+
+Well
+
+
+ Lampposts 
+
+Wet cement
+
+
+ Lanterns 
+
+Wine spill

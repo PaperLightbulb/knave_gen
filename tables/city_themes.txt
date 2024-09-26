@@ -1,0 +1,242 @@
+
+ Alchemy 
+
+ Inventions
+
+ Animal 
+
+ Leisure
+
+ Aristocracy 
+
+ Libraries
+
+ Art 
+
+ Livestock
+
+ Asylums 
+
+ Magic school
+
+ Activity 
+
+ Marketplaces
+
+ Banking 
+
+ Mausoleums
+
+ Baths 
+
+ Medicine
+
+ Begging 
+
+ Mercenaries
+
+
+ Bells 
+
+Military
+
+
+ Brewing 
+
+ Monasteries
+
+
+ Bridges 
+
+Monuments
+
+
+ Building 
+
+ Museums
+
+
+ Bureaucracy 
+
+Music
+
+
+ Business 
+
+ Mutation
+
+
+ Canals 
+
+ Opulence
+
+
+ Catacombs 
+
+ Perfume
+
+
+ Cats 
+
+ Printing
+
+
+ City event 
+
+ Prisons
+
+
+Courts 
+
+ Profession
+
+
+ Crime families 
+
+ Punishment
+
+
+Cults 
+
+ Rats
+
+
+ Dancing 
+
+ Ravens
+
+
+Delusion 
+
+ Refuse
+
+
+ Dining 
+
+ Rituals
+
+
+Disaster 
+
+ Room theme
+
+
+ Domain 
+
+ Ruins
+
+
+Drinking 
+
+ Sacrifices
+
+
+Dueling 
+
+ Science
+
+
+Dungeon 
+
+Shipyards
+
+
+ Element 
+
+ Slavery
+
+
+ Faction 
+
+Slums
+
+
+ Faction trait 
+
+ Smithing
+
+
+ Fashion 
+
+ Smoke
+
+
+ Festivals 
+
+ Song
+
+
+ Feuds 
+
+ Spices
+
+
+ Fishing 
+
+ Spores
+
+
+ Flowers 
+
+ Steam power
+
+
+ Food 
+
+ Structure
+
+
+Fortifications 
+
+Temples
+
+
+ Fountains 
+
+ Textiles
+
+
+Gambling 
+
+Theaters
+
+
+ Gangs 
+
+ Thievery
+
+
+Gardens 
+
+Towers
+
+
+ Government 
+
+ Training
+
+
+Guilds 
+
+ Travel shift
+
+
+ Hazard 
+
+ Treasure
+
+
+Horses 
+
+Trees
+
+
+Hunger 
+
+ Universities
+
+
+ Industry 
+
+Wizardry
+

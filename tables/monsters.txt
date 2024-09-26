@@ -1,0 +1,241 @@
+
+ Aboleth 
+
+ Hell hound
+
+ Air elemental 
+
+ Hippogriff
+
+ Angel 
+
+ Hobgoblin
+
+ Animal 
+
+ Homunculus
+
+ Animated armor 
+
+ Hook horror
+
+ Banshee 
+
+ Hydra
+
+ Basilisk 
+
+ Imp
+
+ Black pudding 
+
+ Intellect devourer
+
+ Blink dog 
+
+ Invisible stalker
+
+
+ Brain flayer 
+
+Kobold
+
+
+ Bugbear 
+
+ Kraken
+
+
+ Bulette 
+
+Lich
+
+
+ Centaur 
+
+ Lizardfolk
+
+
+ Chimera 
+
+Manticore
+
+
+ Cockatrice 
+
+ Merfolk
+
+
+ Crawling claw 
+
+ Mimic
+
+
+ Cyclops 
+
+ Minotaur
+
+
+ Darkmantle 
+
+Mummy
+
+
+ Death knight 
+
+ Myconid
+
+
+Demon 
+
+ Naga
+
+
+ Dire wolf 
+
+ Ochre jelly
+
+
+Djinn 
+
+ Ogre
+
+
+ Doppelganger 
+
+ Orc
+
+
+Dragon 
+
+ Owl bear
+
+
+ Dryad 
+
+ Pegasus
+
+
+Earth elemental 
+
+ Peryton
+
+
+ Efreet 
+
+ Phase spider
+
+
+Eye tyrant 
+
+ Piercer
+
+
+ Fire elemental 
+
+ Purple worm
+
+
+Gargoyle 
+
+Rakshasa
+
+
+ Gelatinous cube 
+
+ Roc
+
+
+Ghost 
+
+Roper
+
+
+ Ghoul 
+
+ Rust monster
+
+
+ Giant 
+
+ Satyr
+
+
+ Giant anim. 
+
+ Shadow
+
+
+ Giant centipede 
+
+ Skeleton
+
+
+ Giant crab 
+
+ Sphinx
+
+
+Giant frog 
+
+ Stirge
+
+
+ Giant scorpion 
+
+ Succubus
+
+
+Giant snake 
+
+Tarrasque
+
+
+ Giant spider 
+
+ Treant
+
+
+Giant weasel 
+
+Troll
+
+
+ Gnoll 
+
+ Tyrannosaurus
+
+
+Goblin 
+
+ Unicorn
+
+
+ Golem 
+
+ Vampire
+
+
+Gorgon 
+
+Water elemental
+
+
+ Gray ooze 
+
+ Werewolf
+
+
+Griffon 
+
+Wyvern
+
+
+Hag 
+
+Yeti
+
+
+Harpy 
+
+Zombie

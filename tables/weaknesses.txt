@@ -1,0 +1,241 @@
+
+ Acid 
+
+ Location
+
+ Alcohol 
+
+ Machines
+
+ Animal 
+
+ Magic school
+
+ Anti-magic 
+
+ Material
+
+ Arms 
+
+ Mirrors
+
+ Arrows 
+
+ Misc. item
+
+ Birds 
+
+ Mistletoe
+
+ Blessings 
+
+ Moonlight
+
+ Blood 
+
+ Mouth
+
+
+ Blunt damage 
+
+ Music
+
+
+ Chest 
+
+ Neck
+
+
+ Children 
+
+ Noise
+
+
+ Church bells 
+
+ Nose
+
+
+ Cold 
+
+ Oil
+
+
+ Color 
+
+ Phylactery
+
+
+ Competition 
+
+ Piercing damage
+
+
+ Conversation 
+
+ Poison
+
+
+ Cutting damage 
+
+ Profession
+
+
+ Darkness 
+
+ Psychic damage
+
+
+ Dirt 
+
+ Puzzles
+
+
+ Disease 
+
+ Rain
+
+
+ Domain 
+
+ Relic
+
+
+ Ears 
+
+ Riddles
+
+
+ Element 
+
+ Rituals
+
+
+ Eyes 
+
+ Running water
+
+
+ Feet 
+
+ Salt
+
+
+ Fingers 
+
+ Scent
+
+
+ Fire 
+
+ Seawater
+
+
+ Firelight 
+
+ Silver
+
+
+ Fish 
+
+ Singing
+
+
+ Flattery 
+
+ Skin
+
+
+ Flowers 
+
+ Soap
+
+
+ Food 
+
+ Sound
+
+
+ Garlic 
+
+ Spell
+
+
+ Gifts 
+
+ Spicy food
+
+
+ Gold 
+
+ Spine
+
+
+ Hands 
+
+ Starlight
+
+
+ Hazard 
+
+ Sunlight
+
+
+ Heart 
+
+ Symbol
+
+
+ Heat 
+
+ Tactic
+
+
+ Holy image 
+
+ Tears
+
+
+ Holy oil 
+
+ Thunder
+
+
+ Holy water 
+
+ Tool
+
+
+ Ice 
+
+ Travel shift
+
+
+ Ingredient 
+
+ Treasure
+
+
+ Insects 
+
+ True name
+
+
+ Insults 
+
+ Water
+
+
+ Iron 
+
+ Weapon
+
+
+ Legs 
+
+ Wolfsbane
+
+
+ Lightning 
+
+ Wormwood

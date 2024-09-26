@@ -1,0 +1,99 @@
+ Alarm 
+ Incense
+ Animal sounds
+ Increased patrols
+ Apparition 
+ Invasion
+ Awakening 
+ Lava flow
+ Battle 
+ Leak
+ Blessing 
+ Liquid sounds
+ Blood scent
+ Machine sounds
+ Ceilings moves 
+ Manure scent
+ Ceremony 
+ Monster scent
+ City event 
+Monster sounds
+ Cleaning 
+ Mud flow
+ Cloud of flies
+Music
+ Combat sounds 
+ Nesting
+ Construction 
+ New faction
+ Crystal growth
+ New monster
+ Curse 
+ New rooms
+ Dead rise 
+ Oil flow
+ Decay scent 
+ Passages close
+ Decreased patrols 
+ Passages open
+Delusion 
+ Plague
+ Device activates 
+ Planar overlay
+Disaster 
+ Plants bloom
+ Doors close 
+ Plants grow
+Doors open 
+ Plants wither
+ Draining 
+ Repairs
+Dungeon rotates 
+ Rift opens
+ Dungeon slides 
+ Room revolves
+Dungeon tilts 
+ Room slides
+Dust cloud 
+ Room tilts
+ Earthquake 
+Rooms filled in
+ Element flow 
+ Rooms rearrange
+ Eruption 
+Sand flow
+ Excavation 
+ Scent
+ Faction alliance 
+ Singing
+ Faction truce 
+ Sleep
+ Faction war 
+ Smoke
+ Feast 
+ Sound
+ Fire 
+ Static charge
+ Flammable gas
+ Summoning
+Flooding 
+Total silence
+ Floors move 
+ Trap effect
+Fog 
+Traps rearm
+ Food scent 
+ Vermin swarm
+ Foraging 
+Voices
+ Freezing 
+ Walls close in
+Gravel flow 
+Walls move
+ Hatching 
+ Walls widen
+Hot 
+Water flow
+Humid
+Wind
+Hunt 00Worship

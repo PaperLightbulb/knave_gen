@@ -1,0 +1,100 @@
+ Ambushing
+ Harvesting
+ Arguing
+Hauling
+ Awarding
+ Healing
+ Beautifying
+ Hiding
+ Befouling
+ Igniting
+ Begging 
+ Infiltrating
+ Besieging
+ Initiating
+ Birthing 
+ Instructing
+ Blessing 
+ Kidnapping
+ Brawling
+Looting
+ Building
+ Mapping
+ Burgling 
+Marrying
+ Burying 
+ Mission 
+ Camping
+Mourning
+ Capturing
+ Murdering
+ Carving 
+ Pardoning
+ Celebrating
+ Parleying
+ Chasing 
+ Patrolling
+ Cleaning 
+ Performing
+Clearing 
+ Planning
+ Climbing 
+ Planting
+Collecting
+ Playing
+ Competing
+ Praying
+Convening
+ Preaching
+ Cooking 
+ Processing
+Courting 
+ Questioning
+ Crafting 
+ Repairing
+Cursing 
+ Rescuing
+Dancing
+ Resting
+ Defacing
+Rioting
+ Defending 
+ Robbing
+ Delivering 
+Sacrificing
+ Destroying
+ Scavenging
+ Dousing
+ Scouting
+ Dueling
+ Searching
+ Dying 
+ Selling
+ Eating
+ Singing
+ Effect 
+ Sleeping
+ Escaping 
+ Sound
+Escorting 
+Summoning
+ Excavating
+ Surrendering
+Executing 
+ Swindling
+ Feasting
+ Tactic 
+ Fighting
+Tending
+ Fleeing 
+ Threatening
+ Foraging 
+Tracking
+ Fortifying 
+ Trading
+Gambling
+Training
+Goal 
+Traveling
+Guarding 
+Worshiping

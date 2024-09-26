@@ -1,0 +1,241 @@
+
+ Age 
+
+ Metal-proof
+
+ All languages 
+
+ Might
+
+ Alter body 
+
+ Mind reading
+
+ Alter face 
+
+ Monster trait
+
+ Alter voice 
+
+ Mutation
+
+ Animal form 
+
+ NPC detail
+
+ Armor 
+
+ Organ
+
+ Beast-speech 
+
+ Ooze form
+
+ Bird-speech 
+
+ Paranoia
+
+
+ Breathlessness 
+
+Personality
+
+
+ Claws 
+
+ Plant-speech
+
+
+ Cold-proof 
+
+Poison-proof
+
+
+ Courage 
+
+ Power
+
+
+ Cure disease 
+
+ Profession
+
+
+ Cure poison 
+
+ Rage
+
+
+ Cure wounds 
+
+ Sense danger
+
+
+ Dark vision 
+
+ Sense direction
+
+
+ Dead-speech 
+
+ Sense evil
+
+
+ Delusion 
+
+ Sense gold
+
+
+Effect 
+
+ Sense heat
+
+
+ Elasticity 
+
+ Sense illusion
+
+
+Elem. form 
+
+ Sense lies
+
+
+ Extra arms 
+
+ Sense magic
+
+
+False death 
+
+ Sense undead
+
+
+ Fear 
+
+ Shrinking
+
+
+Fire form 
+
+ Sleep
+
+
+ Fish-speech 
+
+ Sleeplessness
+
+
+Flight 
+
+ Smoke form
+
+
+ Forgetfulness 
+
+ Sniffing
+
+
+ Friendship 
+
+Sovereign acid
+
+
+ Growth 
+
+ Sovereign glue
+
+
+Grub-speech 
+
+Sovereign grease
+
+
+ Hate 
+
+ Sovereign poison
+
+
+ Healing 
+
+ Speed
+
+
+ Hearing 
+
+ Spines
+
+
+ Heat-proof 
+
+ Stinger
+
+
+ Hunger-proof 
+
+ Stone-speech
+
+
+ Ice form 
+
+ Swimming
+
+
+ Illumination 
+
+Telekinesis
+
+
+Intangibility 
+
+Thought-sending
+
+
+ Invisibility 
+
+ Undeath
+
+
+ Invulnerability 
+
+Vampirism
+
+
+ Iron stomach 
+
+ Ventriloquism
+
+
+ Jumping 
+
+Vision
+
+
+ Lightning form 
+
+ Wall-crawling
+
+
+ Lightning-proof 
+
+Water-breathing
+
+
+ Love 
+
+ Water-walking
+
+
+Lycanthropy 
+
+Web-slinging
+
+
+ Magic-proof 
+
+X-ray vision
+
+
+Mannerism 
+
+Youth

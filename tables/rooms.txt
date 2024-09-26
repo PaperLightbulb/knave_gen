@@ -1,0 +1,93 @@
+ Alchemy room 51 Junk room
+ Alcohol cellar 52 Kennel
+ Arboretum 53 Kitchen
+ Archery range 54 Laboratory
+ Arena 55 Lair
+ Armory 56 Larder
+ Arsenal 57 Latrine
+ Art gallery 
+ Library
+ Art studio 
+ Lounge
+ Audience hall
+Map room
+ Aviary 
+ Maze
+ Ballroom 
+Mechanism
+ Banquet hall 
+ Meditation room
+ Barracks 
+Menagerie
+ Baths 
+ Mess hall
+ Bed chamber
+ Mews
+ Brewery 
+ Museum
+ Building 
+Music room
+ Catacombs 
+ Nursery
+Cave 
+ Observatory
+ Cell 
+ Pantry
+Chapel
+ Parlor
+ Chasm 
+ Pit
+Church
+ Poison room
+ Cistern 
+ Pool
+Cloakroom 
+ Prison
+ Concert hall
+ Record room
+Conjuring room
+ Location
+Courtroom 
+ Salon
+Courtyard 
+Scriptorium
+ Crematorium 
+ Scullery
+ Crypt 
+Sculpture gallery
+ Dining room
+ Shop
+ Divination room
+ Shrine
+ Dormitory
+ Slaughterhouse
+ Dungeon 
+ Smoking room
+ Dressing room 
+ Stables
+ Embalming room 
+ Storeroom
+ Fighting pit 
+ Structure 
+Fissure
+Study
+ Forge 
+ Tapestry room
+Fountain room 
+Theater
+ Gallery
+ Throne room
+Game room
+Torture room
+ Garden
+ Training hall
+Gatehouse 
+Treasury
+ Great hall 
+ Trophy room
+Guardroom 
+Vault
+Hall 
+Work pit
+ Infirmary
+Workshop

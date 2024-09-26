@@ -1,0 +1,242 @@
+
+ Apprehend NPC 
+
+ Infiltrate faction
+
+ Arrange marriage 
+
+ Investigate crime
+
+ Awaken monster 
+
+ Kidnap leader
+
+ Banish demon 
+
+ Kidnap NPC
+
+ Befoul location 
+
+ Kill leader
+
+ Blackmail NPC 
+
+ Kill NPC
+
+ Bribe faction 
+
+ Locate city
+
+ Bribe NPC 
+
+ Locate dungeon
+
+ Burgle building 
+
+ Locate faction
+
+
+ Chart dungeon 
+
+Locate item
+
+
+ Chart location 
+
+ Locate landmark
+
+
+ Clear dungeon 
+
+Locate NPC
+
+
+ Clear lair 
+
+ Locate location
+
+
+ Control building 
+
+ Loot dungeon
+
+
+ Craft item 
+
+ Overthrow NPC
+
+
+ Cripple NPC 
+
+ Patrol building
+
+
+ Deceive faction 
+
+ Patrol city
+
+
+ Deceive NPC 
+
+ Persuade faction
+
+
+ Deface building 
+
+ Persuade NPC
+
+
+Defraud NPC 
+
+ Plant item
+
+
+ Destroy building 
+
+ Poison NPC
+
+
+Destroy item 
+
+ Prank NPC
+
+
+ Destroy monster 
+
+ Protect building
+
+
+Destroy warband 
+
+ Protect item
+
+
+ Discredit NPC 
+
+ Protect NPC
+
+
+Drown NPC 
+
+ Pursue NPC
+
+
+ Duplicate item 
+
+ Raid building
+
+
+Entertain NPC 
+
+ Replace item
+
+
+Entrap NPC 
+
+ Replace NPC
+
+
+ Escape building 
+
+Rescue family
+
+
+ Escape city 
+
+ Rescue leader
+
+
+ Escape dungeon 
+
+Rescue NPC
+
+
+ Escape location 
+
+ Resolve dispute
+
+
+ Escort NPC 
+
+Retrieve item
+
+
+ Extort NPC 
+
+ Rob faction
+
+
+ Follow NPC 
+
+Rob NPC
+
+
+ Forge weapon 
+
+ Sabotage item
+
+
+ Frame NPC 
+
+ Sabotage treaty
+
+
+ Frighten NPC 
+
+ Sabotage wedding
+
+
+Goal 
+
+Seduce NPC
+
+
+ Haunt NPC 
+
+ Smuggle item in
+
+
+Hide item 
+
+ Smuggle item out
+
+
+ Hide NPC 
+
+ Spread rumor
+
+
+Humiliate NPC 
+
+ Spy on faction
+
+
+ Impersonate NPC 
+
+ Spy on NPC
+
+
+ Impress faction 
+
+ Summon being
+
+
+ Impress NPC 
+
+ Survive test
+
+
+ Infiltrate building 
+
+Tame monster
+
+
+ Infiltrate city 
+
+Transport item
+
+
+ Infiltrate dungeon
+
+Transport NPC
+

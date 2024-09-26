@@ -1,0 +1,242 @@
+
+ Anecdotes 
+
+ Narrates
+
+ Archetype 
+
+ Nasal
+
+ Asides 
+
+ Ominous
+
+ Authoritative 
+
+ Overconfident
+
+ Booming 
+
+ Overly casual
+
+ Breathy 
+
+ Pedantic
+
+ Brusque 
+
+ Platitudinous
+
+ Chatty 
+
+ Ponderous
+
+ Cheery 
+
+ Pontificating
+
+
+ Chuckles 
+
+Precise
+
+
+ Clipped 
+
+ Prissy
+
+
+ Cocky 
+
+Profane
+
+
+ Condescending 
+
+ Professorial
+
+
+ Conspiratorial 
+
+ Purring
+
+
+ Crooning 
+
+ Quaint sayings
+
+
+ Cryptic 
+
+ Quiet
+
+
+ Curt 
+
+ Quivering
+
+
+ Deadpan 
+
+Quotations
+
+
+ Deep voice 
+
+Rambling
+
+
+Dramatic 
+
+Random facts
+
+
+ Drawl 
+
+ Ranting
+
+
+Droning 
+
+ Rapid-fire
+
+
+ Effusive 
+
+ Raspy
+
+
+Enunciates 
+
+ Resonant
+
+
+ Flowery 
+
+ Rhyming
+
+
+Genteel 
+
+ Rhythmic
+
+
+Grave 
+
+ Robotic
+
+
+Gravelly 
+
+ Sarcastic
+
+
+Growling 
+
+ Seductive
+
+
+Halting 
+
+Shrill
+
+
+ Hiccups 
+
+ Sing-song
+
+
+Highly formal 
+
+Slow speech
+
+
+ Histrionic 
+
+ Slurring
+
+
+ Hoarse 
+
+ Sneering
+
+
+ Honeyed 
+
+ Sonorous
+
+
+ Hushed 
+
+ Soothing
+
+
+ Hyperbolic 
+
+ Sound
+
+
+Hypnotic 
+
+ Speechifying
+
+
+ Incoherent 
+
+ Squeaky
+
+
+Insistent 
+
+Street slang
+
+
+ Interrupts 
+
+ Stutters
+
+
+Laconic 
+
+Talks to self
+
+
+ Languid 
+
+ Trails off
+
+
+ Lilting 
+
+ Upspoken
+
+
+ Long pauses 
+
+ Vitriolic
+
+
+Melodious 
+
+Voice breaks
+
+
+ Monosyllabic 
+
+ Warm
+
+
+Monotone 
+
+Whispers
+
+
+ Mumbles 
+
+Wistful
+
+
+ Name-drops 
+
+Wry
+

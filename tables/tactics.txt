@@ -1,0 +1,241 @@
+
+ Ambush 
+
+ Merge
+
+ Annoy 
+
+ Mire
+
+ Bind 
+
+ Monologue
+
+ Blind 
+
+ Negotiate
+
+ Body slam 
+
+ Obscure
+
+ Break armor 
+
+ Order minion
+
+ Break terrain 
+
+ Pincer maneuver
+
+ Break weapons 
+
+ Play dead
+
+ Bulldoze 
+
+ Poison
+
+
+ Burrow 
+
+Power up
+
+
+ Burst 
+
+ Praise self
+
+
+ Cannibalize 
+
+Protect leader
+
+
+ Capture 
+
+ Protect self
+
+
+ Challenge 
+
+ Pull
+
+
+ Chant 
+
+ Push
+
+
+ Charge 
+
+Roll
+
+
+ Cheat 
+
+ Scatter foes
+
+
+ Choke 
+
+ Scream
+
+
+ Climb 
+
+ Shake
+
+
+Confuse 
+
+ Sicken
+
+
+ Create barrier 
+
+ Slam object
+
+
+Cripple 
+
+ Spin
+
+
+ Deafen 
+
+ Split body
+
+
+Deceive 
+
+ Squeeze
+
+
+ Demand worship 
+
+ Stalk
+
+
+Disarm 
+
+ Stare down
+
+
+ Disorient 
+
+ Steal
+
+
+Distract 
+
+ Strategic retreat
+
+
+Divide foes 
+
+ Stun
+
+
+ Dodge 
+
+Summon aid
+
+
+ Drop down 
+
+ Swallow whole
+
+
+ Effect 
+
+Swarm
+
+
+ Encircle 
+
+ Sweep
+
+
+ Entangle 
+
+ Swing creature
+
+
+ Evade 
+
+ Swing object
+
+
+ Feint 
+
+Target insolent
+
+
+ Flank 
+
+ Target leader
+
+
+ Follow 
+
+Target nearest
+
+
+ Frighten 
+
+Target richest
+
+
+Gang up 
+
+Target strongest
+
+
+ Go berserk 
+
+ Target weakest
+
+
+Goad 
+
+Throw creature
+
+
+ Grab 
+
+ Throw object
+
+
+Harry 
+
+Thrust
+
+
+ Ignite 
+
+ Toy with
+
+
+ Immobilize 
+
+Trap
+
+
+ Leap 
+
+ Trap effect
+
+
+Link up 
+
+Trip
+
+
+ Lure in 
+
+ Undermine
+
+
+ Manipulate 
+
+Vomit

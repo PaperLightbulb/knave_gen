@@ -1,0 +1,100 @@
+ Alchemy lab 
+ Lava tubes
+ Animal burrow 
+ Library
+ Aquarium 
+ Living dungeon
+ Arboretum
+ Lock
+ Archive
+ Mansion
+ Arena 
+ Marketplace
+ Armory
+ Mausoleum
+ Art gallery
+ Memorial
+ Asylum 
+ Menagerie
+ Automaton 
+Mill
+ Aviary 
+ Mine
+ Bank 
+Monastery
+ Bathhouse
+ Monster gallery
+ Building 
+Monster lab
+ Bunker 
+ Monster lair
+ Casino 
+ Museum
+ Castle 
+ Mushroom forest
+ Catacombs
+Nest
+ Cathedral 
+ Nursery
+Cave system 
+ Observatory
+ Cistern 
+ Orrery
+City
+ Palace
+ Clock 
+ Prison
+Corpse 
+ Race track
+ Court 
+ Room
+Criminal den 
+ Sanctum
+ Curiosity cabinet 
+ Sculpture gallery
+Dam
+ Sewer
+Deathtrap 
+ Ship
+ Depot
+Silo
+ Dig site 
+ Slaughterhouse
+ Dormitory
+Stable
+ Faction hideout 
+ Stronghold
+ Factory 
+ Structure
+ Fashion gallery 
+ Summoning site
+ Feasting hall 
+Temple
+ Forge 
+ Testing ground
+Garbage pit 
+Theater
+ Gateway 
+Theme park
+Guildhall 
+Tomb
+ Historical gallery 
+ Tower
+Hospital 
+Training complex
+ Hotel
+ Treasure vault
+ Ice caves
+Tree
+ Insect hive
+ Warehouse
+ Instrument 
+Warren
+ Kennel 
+ Waterworks
+Kitchen
+Weapon gallery
+ Labyrinth
+Wine cellar
+ Larder 
+Work pit

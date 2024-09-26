@@ -1,0 +1,242 @@
+
+ Absorb abilities 
+
+ Healing aura
+
+ Acid aura 
+
+ Hypnotism
+
+ Acid bolt 
+
+ Ice aura
+
+ Acid breath 
+
+ Ice bolt
+
+ Astral projection 
+
+ Ice breath
+
+ Attract 
+
+ Ice wall
+
+ Beast control 
+
+ Immovability
+
+ Bird control 
+
+ Insect control
+
+ Blind 
+
+ Iron wall
+
+
+ Blur 
+
+Laser eyes
+
+
+ Burrow 
+
+ Levitation
+
+
+ Chameleon skin 
+
+Lightning bolt
+
+
+ Clairaudience 
+
+ Lightning breath
+
+
+ Clairvoyance 
+
+ Love aura
+
+
+ Clone self 
+
+ Magnetism
+
+
+ Create illusion 
+
+ Memory control
+
+
+ Deafen 
+
+ Mimic sounds
+
+
+ Drain life 
+
+Mind control
+
+
+ Dreamwalk 
+
+ Mold flesh
+
+
+Earthquake 
+
+ Mold metal
+
+
+ Echolocation 
+
+ Mold stone
+
+
+Effect 
+
+ Paralyze
+
+
+ Effect aura 
+
+ Paranoia aura
+
+
+ Effect blast 
+
+ Petrify
+
+
+ Effect bolt 
+
+ Plane shift
+
+
+ Effect ray 
+
+ Plant control
+
+
+ Electric aura 
+
+ Poison aura
+
+
+Element aura
+
+ Poison breath
+
+
+ Element blast
+
+ Potion
+
+
+ Element bolt 
+
+Rage aura
+
+
+ Elem. breath 
+
+ Raise dead
+
+
+ Elem. control 
+
+Remove curse
+
+
+ Element ray 
+
+ Repulse
+
+
+ Element wall 
+
+Rot
+
+
+ Entangle 
+
+ Shockwave
+
+
+ Entomb 
+
+ Silence
+
+
+ Explode 
+
+ Sleep aura
+
+
+ Fear aura 
+
+ Slow enemies
+
+
+ Fire aura 
+
+ Spell
+
+
+Fire bolt 
+
+Spirit control
+
+
+ Fire breath 
+
+ Stone wall
+
+
+Fire control 
+
+ Summon
+
+
+ Fire starting 
+
+ Swallow whole
+
+
+ Fire wall 
+
+ Swap minds
+
+
+ Fog breath 
+
+ Teleport
+
+
+ Force wall 
+
+Time control
+
+
+ Friendship aura 
+
+ Travel shift
+
+
+Gravity control 
+
+Undead control
+
+
+Grow plants 
+
+Wind control
+
+
+Hate aura 
+
+Wind wall
+

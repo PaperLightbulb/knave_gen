@@ -1,0 +1,100 @@
+ adhere: INT objects become sticky enough to hold a PC to a ceiling. Lasts until washed.
+ animal friendship: INT animals obey your orders as well as a trained dog for one day.
+ animate object: INT objects obey your orders. They move 15’ per round.
+ anthropomorphize: INT animals gain human intelligence for one day.
+ arcane eye: You create a magic eye that flies around under your control for INT turns. You can see through it as well as your normal eyes.
+ astral prison: An object is frozen in time and space within an invulnerable crystal shell for INT turns.
+ attract: INT + 1 objects are strongly magnetically attracted to each other if they come within 10’.
+ auditory illusion: You can create illusory sounds that seem to come from INT directions of your choice.
+ babble: INT creatures must loudly and clearly repeat everything you think. They are otherwise mute.
+ beast form: You and your possessions turn into an animal for up to INT days.
+ befuddle: A creature is unable to form short-term memories for INT turns.
+ bend fate: Roll INT + 1 d20s. After this point, when any creature you can see makes a check, use and discard one of the rolled results until they are all gone.
+ body swap: You switch bodies with a creature you touch for INT turns. If one body dies, the other dies as well.
+ catherine: A woman wearing a blue dress appears for INT hours. She will obey polite, safe requests.
+ charm: INT humanoids believe they are close friends with you until proven otherwise.
+ command: A creature obeys a single, INT-word command that doesn’t harm it.
+ comprehend: You are fluent in all languages for INT hours.
+ control plants: Plants within INT × 10’ obey you. They move 5’ per round.
+ control weather: You control your hex’s weather for INT hours.
+ detect magic: Anything magical within line of sight glows and reveals its properties on request. Lasts 1 day or until you make INT requests.
+ disassemble: INT body parts may be detached at will. You can still control them. Lasts until they are reattached.
+ disguise: You may alter the look of INT humanoids as long as they remain humanoid. Lasts until the subjects speak.
+ displace: An object appears to be up to INT × 10’ from its actual position.
+ duplicate: Create INT fragile, porcelain copies of items you can see.
+ earthquake: The ground shakes violently for INT rounds.
+ elasticity: Your body can stretch up to INT × 10’.
+ elemental wall: Creates a wall of ice or fire INT × 40’ long, 5’ wide and 10’ tall. The wall can curve however you want.
+ filch: INT visible items teleport to your hands.
+ fog cloud: Fog spreads out in an INT × 10’ radius from you. Fades in one turn.
+ gravity shift: INT creatures can alter their “down” direction at will.
+ greed: INT creatures become obsessed with possessing a visible item.
+ haste: INT creatures have their movement speed tripled.
+ hatred: INT creatures start attacking each other for one turn or until one dies.
+ hear whispers: A creature can hear all sounds up to 120’ away for INT turns.
+ hover: Make INT objects hover 2’ above the ground, frictionless. They can support the weight of up to INT people.
+ hypnotize: A creature enters a trance and will answer INT yes or no questions.
+ icy touch: An ice layer spreads across a surface, up to INT × 10’ in radius.
+ increase gravity: The gravity within INT × 10’ of you triples.
+ invisible tether: INT objects within 10’ of each other cannot be moved more than 10’ apart from each other.
+ knock: INT locks unlock.
+ leap: You can jump up to INT × 10’.
+ liquid air: The air within INT × 10’ of you becomes swimmable.
+ lock: A door cannot be opened by mundane means for INT turns.
+ magic suppressor: All magic is nullified while within INT × 10’ of you.
+ manse: A furnished house with INT rooms appears for 1 day. It has no food or gear and does not count as a safe haven.
+ marble madness: Your pockets refill with marbles every round for INT rounds.
+ masquerade: All creatures within INT × 10’ of you are compelled to dance.
+ miniaturize: You and INT other touched creatures become mouse-sized.
+ mirror image: INT illusory copies of you, under your control, appear.
+ mirrorwalk: A mirror becomes a gate to another mirror you touched today.
+ multiarm: You gain INT extra arms.
+ night sphere: An INT × 40’ wide sphere of total darkness appears.
+ objectify: INT willing creatures become inanimate, immobile objects of your choice for as long as they wish. They can still hear and see.
+ ooze form: Your body and gear become living slime for INT turns.
+ pacify: INT creatures develop an intense hatred of violence unless attacked.
+ phantom coach: A coach scoops up INT creatures (who are outdoors) and deposits them in a random adjacent hex.
+ phobia: INT creatures become terrified of an object.
+ pit: A pit 10’ wide and INT × 10’ deep opens in the ground.
+ primeval surge: An object grows to the size of an elephant for INT turns. If it is a creature, it is enraged.
+ psychometry: The GM answers INT yes or no questions about an object.
+ pull: An object of any size is pulled directly towards you with the force of INT men for one round.
+ push: An object of any size is pushed directly away from you with the force of INT men for one round.
+ raise dead: INT unarmed skeletons rise from the ground to serve you.
+ read mind: You can hear the surface thoughts of creatures for INT turns.
+ repel: INT + 1 objects are strongly magnetically repelled from each other if they come within 10’.
+ scry: You can share the vision of a creature you touched today for INT turns.
+ sculpt elements: Inanimate material acts like clay in your hands for INT turns.
+ shroud: INT creatures are invisible for as long as they can hold their breath (CON × 3 rounds).
+ shuffle: INT creatures switch places randomly.
+ silence: All sound is deadened within 10’ of you for INT turns.
+ sleep: INT creatures fall asleep.
+ smoke form: Your body and gear become living smoke for INT turns.
+ snail knight: In 10 minutes, a knight atop a giant snail rides into view. He may aid you for INT days if he finds you worthy. The snail cannot move faster than a walk.
+ sniff: A creature can smell all scents up to 120’ away for INT turns.
+ sort: Inanimate items sort themselves according to INT categories you set. The categories must be visually verifiable.
+ speak with dead: The spirit of a touched dead body appears and will answer INT questions (if it can).
+ spectacle: A clearly unreal illusion appears under your control for INT days. It may be up to the size of a palace and has full motion and sound.
+ spellseize: Cast this as a reaction to another spell of level INT or less being cast to make a temporary copy of it that you can cast within 1 day.
+ spider climb: You can climb surfaces like a spider for INT turns.
+ summon cube: You may summon or banish a 5’ cube of earth 5 times per round for INT rounds. Cubes must be affixed to the earth or to other cubes.
+ summon idol: A carved stone statue up to INT × 10’ tall rises from the ground.
+ swarm: You become a swarm of crows, rats, or piranhas for INT turns. You only take damage from area effects.
+ telekinesis: You may mentally manipulate items (one at a time) up to 10 feet away for INT turns.
+ telepathy: You can project your thoughts into a mind within INT hexes.
+ teleport: An object teleports to a clear patch of ground up to INT × 40’ away from its origin point.
+ thaumaturgic anchor: An object becomes the target of every spell cast within 120’ of it for INT turns.
+ thicket: A thicket of trees and dense brush up to INT × 40’ wide sprouts up over the course of one round.
+ time jump: An object disappears as it jumps INT turns into the future. When it returns, it destroys any matter in its space.
+ time rush: Time within INT × 10’ of you goes 10 times faster than the rest of the world. Lasts 10 rounds (for you).
+ time slow: Time within INT × 10’ of you goes 10 times slower than the rest of the world. Lasts 10 rounds (for you).
+ truth sense: You can detect lies for INT hours.
+ unravel: Cast this as a reaction to another spell of level INT or less going off to nullify it.
+ upwell: A spring of seawater erupts, producing a thousand cubic feet of water per turn for INT turns.
+ vision: You create an illusory object with full motion and sound that only one creature can sense. Lasts INT turns.
+ visual illusion: You create INT silent, immobile, illusory objects that last until they are touched.
+ ward: A silver circle 40’ across appears on the ground around you. Until you leave the circle, INT types of things that you name cannot cross it.
+ web: You can shoot INT × 40’ of strong, sticky web. Lasts until burned.
+ whirlwind: You create a vortex of air INT × 10’ wide that can deflect missiles.
+ wizard mark: Your finger produces ulfire-colored paint for INT hours. This paint is only visible to you, and can be seen at any distance, even through objects.
+ x-ray vision: You can see through INT feet of material.

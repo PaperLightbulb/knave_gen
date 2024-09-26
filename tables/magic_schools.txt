@@ -1,0 +1,241 @@
+
+ Abjuration 
+
+ Lightning
+
+ Air 
+
+ Martial arts
+
+ Alchemy 
+
+ Memory
+
+ Alteration 
+
+ Metamagic
+
+ Animation 
+
+ Mind control
+
+ Anti-magic 
+
+ Mirrors
+
+ Archery 
+
+ Misdirection
+
+ Architecture 
+
+ Mist
+
+ Armor 
+
+ Music
+
+
+ Artifice 
+
+Necromancy
+
+
+ Beasts 
+
+ Oratory
+
+
+ Biomancy 
+
+Outsiders
+
+
+ Birds 
+
+ Planes
+
+
+ Book 
+
+ Portals
+
+
+ Charms 
+
+ Power
+
+
+ Chromatic 
+
+ Protection
+
+
+ Conjuration 
+
+ Rays
+
+
+ Counterspells 
+
+Reptiles
+
+
+ Creation 
+
+Revelation
+
+
+Darkness 
+
+ Room theme
+
+
+ Death 
+
+ Sea
+
+
+Desert 
+
+ Servants
+
+
+ Destruction 
+
+ Shadow
+
+
+Divination 
+
+ Shaping
+
+
+ Domain 
+
+ Sight
+
+
+Dragons 
+
+ Sound
+
+
+ Dreams 
+
+ Speed
+
+
+Earth 
+
+ Stars
+
+
+Emotions 
+
+ Stasis
+
+
+ Enchantment 
+
+Staves
+
+
+ Evocation 
+
+ Stealth
+
+
+ Fear 
+
+Stones
+
+
+ Finding 
+
+ Storms
+
+
+ Fire 
+
+ Summoning
+
+
+ Fish 
+
+ Sun
+
+
+ Flight 
+
+ Swords
+
+
+ Food 
+
+ Telekinesis
+
+
+ Force 
+
+Telepathy
+
+
+ Forest 
+
+Teleportation
+
+
+Fungi 
+
+Theft
+
+
+ Geometry 
+
+ Time
+
+
+Healing 
+
+Transmutation
+
+
+ Ice 
+
+ Trickery
+
+
+ Ignorance 
+
+Vampirism
+
+
+ Illness 
+
+ Walls
+
+
+ Illumination 
+
+Water
+
+
+ Illusion 
+
+ Weapons
+
+
+ Insects 
+
+Wild magic
+
+
+ Invocation 
+
+Wind
+
+
+Knowledge 
+
+Witchery

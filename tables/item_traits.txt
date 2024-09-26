@@ -1,0 +1,241 @@
+
+ Ancient 
+
+ Indestructible
+
+ Avant-garde 
+
+ Infamous
+
+ Blessed 
+
+ Intelligent
+
+ Bloody 
+
+ Kitchy
+
+ Brittle 
+
+ Loud
+
+ Broken 
+
+ Lukewarm
+
+ Bulky 
+
+ Luxurious
+
+ Carved 
+
+ Masterwork
+
+ Classy 
+
+ Military value
+
+
+ Cold 
+
+Miniature
+
+
+ Collectible 
+
+ Minimalist
+
+
+ Color 
+
+Modified
+
+
+ Compact 
+
+ Mythic
+
+
+ Crusty 
+
+ Non-human
+
+
+ Cultural value 
+
+ Organic
+
+
+ Cursed 
+
+ Oversized
+
+
+ Cutting edge 
+
+ Owned
+
+
+ Damaged 
+
+ Padded
+
+
+ Damp 
+
+ Painted
+
+
+Defective 
+
+ Partial
+
+
+ Detects foes 
+
+ Perfumed
+
+
+Disguised 
+
+ Personality
+
+
+ Draws foes 
+
+ Political value
+
+
+Dusty 
+
+ Prickly
+
+
+ Edible 
+
+ Pulsing
+
+
+ Effect 
+
+ Reflective
+
+
+ Element 
+
+ Refurbished
+
+
+Embellished 
+
+ Religious value
+
+
+Encoded 
+
+ Repaired
+
+
+ Eroded 
+
+Reviled
+
+
+ Expandable 
+
+ Rotting
+
+
+ Extra-planar 
+
+Scent
+
+
+ Famous 
+
+ Sharp
+
+
+ Fashionable 
+
+ Shiny
+
+
+ Filthy 
+
+ Shoddy
+
+
+ Flaking 
+
+ Silent
+
+
+ Floppy 
+
+ Slippery
+
+
+ Foldable 
+
+ Smoke-stained
+
+
+ Forbidden 
+
+ Sound
+
+
+Fragile 
+
+Spiky
+
+
+ Gaudy 
+
+ Squishy
+
+
+Glowing 
+
+ Sticky
+
+
+ Gold-plated 
+
+ Stinky
+
+
+Gooey 
+
+Talking
+
+
+ Gorgeous 
+
+ Texture
+
+
+Heavy 
+
+Toxic
+
+
+ Hot 
+
+ Twitching
+
+
+ Icy 
+
+Ugly
+
+
+ Immovable 
+
+Vulgar
+
+
+ Impractical 
+
+Whispering

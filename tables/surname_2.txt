@@ -1,0 +1,233 @@
+
+ -bald 
+
+ -ling 
+ -barrow 
+
+ -lish 
+ -batch 
+
+ -lock 
+ -beck 
+
+ -long 
+ -blood 
+
+ -low 
+ -bold 
+
+ -ly 
+ -bone 
+
+ -man 
+ -bottle 
+
+ -march 
+ -bottom 
+
+ -mark
+
+
+ -bridge 
+
+-marl
+
+
+ -buck 
+
+ -marsh
+
+
+ -burn 
+
+ -mass
+
+
+ -bury 
+
+ -meer
+
+
+ -by 
+
+ -mond
+
+
+ -caster 
+
+ -mont
+
+
+ -castle 
+
+ -mor
+
+
+ -chester 
+
+ -morn
+
+
+ -child 
+
+ -nick
+
+
+ -church 
+
+ -ny
+
+
+-cliff 
+
+ -port
+
+
+ -cloth 
+
+ -ridge
+
+
+-coat 
+
+ -row
+
+
+ -combe 
+
+ -sea
+
+
+ -cott 
+
+ -set
+
+
+ -dale 
+
+ -shot
+
+
+ -dish 
+
+ -sop
+
+
+ -ditch 
+
+ -spoon
+
+
+-down 
+
+ -staff
+
+
+ -fax 
+
+ -stoke
+
+
+ -feld 
+
+-stone
+
+
+ -fent 
+
+ -ten
+
+
+ -fer 
+
+-thorn
+
+
+ -field 
+
+ -thorpe
+
+
+ -foot 
+
+ -throp
+
+
+ -force 
+
+ -ton
+
+
+ -fort 
+
+ -tooth
+
+
+ -fry 
+
+ -top
+
+
+ -gale 
+
+ -vane
+
+
+ -grass 
+
+ -ville
+
+
+-grave 
+
+-wald
+
+
+ -green 
+
+ -wark
+
+
+ -grove 
+
+ -watch
+
+
+ -ham 
+
+ -water
+
+
+ -hill 
+
+ -well
+
+
+ -hope 
+
+ -whistle
+
+
+ -lack 
+
+ -wick
+
+
+ -lain 
+
+ -wood
+
+
+ -land 
+
+ -worm
+
+
+ -less 
+
+ -worth
+
+
+ -lin 
+
+-worthy

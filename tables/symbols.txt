@@ -1,0 +1,241 @@
+
+ Animal 
+
+ Key
+
+ Antlers 
+
+ Knot
+
+ Arrow 
+
+ Lamp
+
+ Axe 
+
+ Leaf
+
+ Bear 
+
+ Lightning bolt
+
+ Bell 
+
+ Lock
+
+ Bird 
+
+ Mask
+
+ Blood drop 
+
+ Misc. item
+
+ Book 
+
+ Moon
+
+
+ Boots 
+
+Nut
+
+
+ Bow 
+
+ Octopus
+
+
+ Bowl 
+
+Organ
+
+
+ Branch 
+
+ Ox
+
+
+ Brazier 
+
+ Pen
+
+
+ Cauldron 
+
+ Pincer
+
+
+ Chain 
+
+ Pine cone
+
+
+ Chariot 
+
+ Planet
+
+
+ Circle 
+
+Rabbit
+
+
+ Clothing 
+
+Rat
+
+
+Cloud 
+
+Ring
+
+
+ Coin 
+
+ Scorpion
+
+
+Constellation 
+
+ Scales
+
+
+ Crab 
+
+ Scroll
+
+
+Cross 
+
+ Serpent
+
+
+ Crown 
+
+ Shield
+
+
+Crystal 
+
+ Sickle
+
+
+ Dagger 
+
+ Skull
+
+
+Deer 
+
+ Snail
+
+
+Dice 
+
+ Snowflake
+
+
+ Eye 
+
+Spear
+
+
+ Fangs 
+
+ Spiral
+
+
+ Feather 
+
+Square
+
+
+ Fish 
+
+ Staff
+
+
+ Fist 
+
+ Star
+
+
+ Flower 
+
+ Sun
+
+
+ Fountain 
+
+ Sword
+
+
+ Food 
+
+ Tentacle
+
+
+ Form 
+
+Throne
+
+
+ Fox 
+
+Tooth
+
+
+Frog 
+
+Torch
+
+
+ Gate 
+
+ Tree
+
+
+Goat 
+
+Triangle
+
+
+ Hammer 
+
+ Turtle
+
+
+Hand 
+
+Wave
+
+
+ Heart 
+
+ Weapon
+
+
+Helmet 
+
+Web
+
+
+ Hook 
+
+ Whale
+
+
+Horn 
+
+Whip
+
+
+Horse 
+
+Wings
+
+
+Hourglass 
+
+Wolf

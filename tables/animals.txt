@@ -1,0 +1,241 @@
+
+ Ant 
+
+ Jellyfish
+
+ Anteater 
+
+ Leech
+
+ Ape 
+
+ Lion
+
+ Badger 
+
+ Locust
+
+ Bat 
+
+ Lynx
+
+ Bear 
+
+ Mantis
+
+ Beaver 
+
+ Mastodon
+
+ Bee 
+
+ Mockingbird
+
+ Beetle 
+
+ Mole
+
+
+ Boar 
+
+Monkey
+
+
+ Bulldog 
+
+ Moose
+
+
+ Butterfly 
+
+Moth
+
+
+ Camel 
+
+ Mouse
+
+
+ Cat 
+
+Mule
+
+
+ Centipede 
+
+ Octopus
+
+
+ Chameleon 
+
+ Otter
+
+
+ Cobra 
+
+ Owl
+
+
+ Cockroach 
+
+Ox
+
+
+ Constrictor 
+
+ Panther
+
+
+Cougar 
+
+ Pig
+
+
+ Cow 
+
+ Pony
+
+
+Coyote 
+
+ Porcupine
+
+
+ Crab 
+
+ Possum
+
+
+Crane 
+
+ Rabbit
+
+
+ Cricket 
+
+ Raccoon
+
+
+Crocodile 
+
+ Rat
+
+
+ Crow 
+
+ Reindeer
+
+
+Cuckoo 
+
+ Rooster
+
+
+Donkey 
+
+ Salamander
+
+
+ Dragonfly 
+
+Scorpion
+
+
+ Duck 
+
+ Seal
+
+
+ Eagle 
+
+Shark
+
+
+ Eel 
+
+ Sheep
+
+
+ Elephant 
+
+ Slug
+
+
+ Elk 
+
+ Snail
+
+
+ Falcon 
+
+ Sparrow
+
+
+ Firefly 
+
+ Spider
+
+
+ Fox 
+
+ Squid
+
+
+ Frog 
+
+ Squirrel
+
+
+Goat 
+
+Tiger
+
+
+ Goose 
+
+ Toad
+
+
+Hare 
+
+Turtle
+
+
+ Hart 
+
+ Viper
+
+
+Hawk 
+
+Vulture
+
+
+ Hedgehog 
+
+ Walrus
+
+
+Hornet 
+
+Weasel
+
+
+ Horse 
+
+ Whale
+
+
+Hound 
+
+Wolf
+
+
+Hummingbird 
+
+Wolverine
+
+
+ Jackal 
+
+Worm

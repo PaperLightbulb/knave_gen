@@ -1,0 +1,241 @@
+
+ Activity 
+
+ Invisible
+
+ Always drunk 
+
+ Invisible servant
+
+ Always polite 
+
+ Invulnerable
+
+ Always rude 
+
+ Language switch
+
+ Always sleepy 
+
+ Liability
+
+ Amnesia 
+
+ Mannerism
+
+ Animal 
+
+ Medium
+
+ Asset 
+
+ Mind controlled
+
+ Aura reading 
+
+ Missing limb
+
+
+ Automaton 
+
+Mission
+
+
+ Being followed 
+
+ Monster
+
+
+ Cannot count 
+
+Monster trait
+
+
+ Cannot lie 
+
+ Must dance
+
+
+ Cannot read 
+
+Must lie
+
+
+ Chosen one 
+
+ Must obey
+
+
+ Clone 
+
+ Must shout
+
+
+ Constant rage 
+
+ Must skip
+
+
+ Dark vision 
+
+Must steal
+
+
+ Demonic 
+
+Name
+
+
+Divine 
+
+NPC Detail
+
+
+ Extra limb 
+
+ Organ
+
+
+Falls in love 
+
+ Personal army
+
+
+ Famous 
+
+ Personality
+
+
+Fears birds 
+
+ Planar traveler
+
+
+ Fears blood 
+
+ Power
+
+
+ Fears dom. 
+
+ Profession
+
+
+ Fears fire 
+
+ Prophet
+
+
+Fears gold 
+
+ Reincarnated
+
+
+ Fears iron 
+
+ Rich
+
+
+ Fears music 
+
+Says thoughts
+
+
+ Fears own hand 
+
+ Secret monarch
+
+
+ Fears PC 
+
+Sees dead people
+
+
+ Fears rain 
+
+ Shapeshifter
+
+
+ Fears rivers 
+
+ Silent
+
+
+ Fears sleep 
+
+ Skin texture
+
+
+ Fears sunlight 
+
+ Sound
+
+
+ Fears symbol 
+
+ Spy
+
+
+ Fears the moon 
+
+ Super strength
+
+
+ Flight 
+
+Talks to animals
+
+
+Genius 
+
+Talks to plants
+
+
+ Gets lost 
+
+ Telekinetic
+
+
+Goal 
+
+Telepathic
+
+
+ Gorgeous 
+
+ Time traveler
+
+
+Hates violence 
+
+Vampire
+
+
+ Healing touch 
+
+ Weakness
+
+
+Hideous 
+
+Weather control
+
+
+ Illuminati 
+
+ Werewolf
+
+
+ Immortal 
+
+Whispers
+
+
+ In an RPG 
+
+Wiz. name
+
+
+ Infamous 
+
+X-ray vision

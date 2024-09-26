@@ -1,0 +1,100 @@
+Arguing 
+ Middens
+ Ash 
+ Misc. item
+ Bile 
+ Molted husk
+ Blade marks 
+ Mounds
+ Blood 
+ Mucus
+ Blood tracks 
+ Mud tracks
+ Bone fragments 
+ Musk
+ Bones 
+ Nest
+ Boreholes 
+ Nesting sounds
+ Bowers 
+Offspring
+ Broken branches
+ Organ
+ Hazard 
+Pellets
+ Burrow 
+ Pheromones
+ Carcass
+ Polished surface
+ Chewed plants 
+ Pollen
+ Claw marks 
+Ritual remnants
+ Clothing 
+ Saliva
+ Cocoons 
+ Scales
+ Crushed grass 
+ Scent
+Dams 
+ Scorch marks
+ Diagrams 
+ Shadows
+Digging sounds 
+ Shed skin
+ Droppings
+ Shells
+Droppings scent 
+ Signaling sounds
+ Eggs 
+ Singing
+Eggshells 
+ Slime trails
+ Element trail 
+ Sound
+Fabric scrap 
+ Stalking sounds
+ Fallen trees 
+ Stripped bark
+ Feathers 
+Symbols
+ Fighting sounds 
+ Teeth marks
+ Fire pit
+Texture trail 
+ Flags 
+ Tool 
+ Fleeing prey 
+Trails
+ Food cache 
+ Traps
+ Food scent 
+Trash
+ Food scraps 
+ Tree scratches
+ Footprints 
+Tunnels
+ Fruit pits 
+Urine
+Fur
+Urine scent
+ Graffiti
+ Voices
+Graves 
+Wallows
+ Hives 
+ Warning scent
+Hunters 
+Warning sounds
+ Injured prey
+ Warnings
+ Lair
+Wax
+ Lair scent 
+ Weapon
+Letters 
+Webs
+ Mating ground 
+Wings
+Mechanism 
+Worshipers

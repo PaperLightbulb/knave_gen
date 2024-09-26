@@ -1,0 +1,241 @@
+
+ Achieve holiness 
+
+ Enforce morality
+
+ Acquire followers 
+
+ Enlightenment
+
+ Acquire land 
+
+ Entertainment
+
+ Acquire wealth 
+
+ Fame and glory
+
+ Advise leader 
+
+ Find justice
+
+ Amaze city 
+
+ Find love
+
+ Avoid detection 
+
+ Frame faction
+
+ Become free 
+
+ Frighten city
+
+ Become infamous 
+
+ Frighten faction
+
+
+ Become learned 
+
+Gain respect
+
+
+ Clear region 
+
+ Get revenge
+
+
+ Collect artifacts 
+
+Hear rumors
+
+
+ Conquer city 
+
+ Indulge tastes
+
+
+ Conquer region 
+
+ Join faction
+
+
+ Control city 
+
+ Join nobility
+
+
+ Control faction 
+
+ Lead faction
+
+
+ Control magic 
+
+ Map wild
+
+
+ Control military 
+
+Master skill
+
+
+ Control politics 
+
+Mission
+
+
+Control religion 
+
+ Overthrow ruler
+
+
+ Control trade 
+
+ Pacify faction
+
+
+Create army 
+
+ Protect artifacts
+
+
+ Create art 
+
+ Protect borders
+
+
+Create base 
+
+ Protect city
+
+
+ Create city 
+
+ Protect faction
+
+
+Create disease 
+
+ Protect family
+
+
+ Create dungeon 
+
+ Protect history
+
+
+Create faction 
+
+ Protect leader
+
+
+Create family 
+
+ Protect region
+
+
+Create machine 
+
+Protect the weak
+
+
+ Create monopoly 
+
+ Publish works
+
+
+ Create monster 
+
+Purge traitors
+
+
+ Create portal 
+
+ Raise the dead
+
+
+ Cripple faction 
+
+Restore faction
+
+
+ Cure disease 
+
+ Restore ruler
+
+
+ Destroy army 
+
+Rule city
+
+
+ Destroy artifacts 
+
+ Rule realm
+
+
+ Destroy city 
+
+Rule world
+
+
+ Destroy faction 
+
+ Sabotage faction
+
+
+Destroy family 
+
+See the world
+
+
+ Destroy magic 
+
+ Serve a deity
+
+
+Destroy nobility 
+
+ Serve evil
+
+
+ Destroy realm 
+
+ Serve faction
+
+
+ Destroy religion 
+
+ Serve leader
+
+
+ Destroy world 
+
+ Serve the needy
+
+
+ Discredit faction 
+
+ Share knowledge
+
+
+ Distribute wealth 
+
+ Slay monsters
+
+
+End poverty 
+
+ Sow chaos
+
+
+ End war 
+
+ Spread beliefs
+
+
+ Enforce law 
+
+Survive dangers

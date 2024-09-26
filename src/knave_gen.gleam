@@ -8,31 +8,31 @@ import glint
 import argv
 
 
-fn entries_flag() -> glint.Flag(Int) {
-  glint.int_flag("n")
-  |> glint.flag_default(1)
-  |> glint.flag_help("Number of entries to print")
-}
-
 fn knave() -> glint.Command(Nil) {
   use <- glint.command_help("")
-  use entries <- glint.flag(entries_flag())
 
-  use _, args, flags <- glint.command()
+  use _, args, _ <- glint.command()
   
-  let name = case args {
-    [] -> "text"
-    [name, ..] -> name
+  let #(name, entries) = case args {
+    [name, e, ..] -> {
+      let entries =  {
+        e
+        |> int.parse()
+        |> result.lazy_unwrap(fn() {1})
+      }
+      #(name, entries)
+    }
+    [name, ..] -> {
+      #(name, 1)
+    }
+    _ -> #("list", 1)
   }
 
-  let assert Ok(entries) = entries(flags)
 
   let assert True = {
     entries > 0
-  }
+  }  
   
-
-
   let table_dir= "./tables/"
   let table_path_list : List(String) = {
     case simplifile.get_files(table_dir) {
@@ -40,12 +40,25 @@ fn knave() -> glint.Command(Nil) {
       Error(_) -> panic as "could not get file dirs"
     }
   }
-  case get_tables(table_path_list) {
-    tables -> {
+
+  let tables = get_tables(table_path_list)
+
+  case name {
+    "list" -> list_names(tables)
+    _ -> {
       print_from_table(name, entries, tables)
     }
   }
+}
 
+pub fn list_names (tables: List(#(String, List(String)))) -> Nil {
+  case tables {
+    [] -> Nil
+    [#(name, _), ..rest] -> {
+      io.println(name)
+      list_names(rest)
+    }
+  }
 }
 
 pub fn main() {

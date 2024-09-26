@@ -1,0 +1,100 @@
+ Air pump
+ Mirror
+ Ball bearings 
+ Net
+ Barrel
+ Paddle
+ Bars
+ Pendulum
+ Basket 
+ Pin
+ Beam
+ Pipes
+ Bell
+ Pit
+ Bellows
+ Platform
+ Belt 
+ Plug
+ Bow 
+Pneumatics
+ Breaks
+ Pole
+ Bucket 
+Portcullis
+ Button 
+ Pressure plate
+ Cable 
+ Pulley
+ Cage 
+ Rack and pinion
+ Capstan
+Rails
+ Cartwheel
+ Ramp
+ Catapult 
+Ratchet
+ Chain pull
+Reservoir
+Chains
+Room
+ Channel
+ Scales
+Claw 
+ Scissor lift
+ Clock 
+ Screw
+Copper wire
+ Scoop
+ Corridor
+ Shaft
+Crane 
+ Slide
+ Creature 
+ Sluice
+Crossbow 
+ Sphere
+Curtain 
+ Spring
+Cylinder 
+Stairs
+ Dial
+ Switch
+ Door 
+Tank treads
+ Drain
+ Tap
+ Drum 
+Thread
+ Fan 
+ Tool 
+ Float
+Trap door
+ Gears
+ Treadmill
+Grate 
+Trigger
+ Hamster wheel 
+Tripwire
+Handwheel 
+Trolley
+ Hook 
+ Vacuum pump
+Hourglass
+Valve
+ Hydrogen tank 
+ Vice
+ Jack 
+Walls
+ Ladder
+ Water pump
+ Latch 
+Waterwheel
+ Lens
+ Wedge
+Lift 
+Weights
+ Light beam 
+Winch
+ Lock
+Windmill

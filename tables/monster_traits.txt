@@ -1,0 +1,241 @@
+
+ Acid blood 
+
+ Many heads
+
+ Amphibious 
+
+ Many legs
+
+ Ancient 
+
+ Many mouths
+
+ Anim. form 
+
+ Mechanical
+
+ Animated 
+
+ Metallic
+
+ Asymmetrical 
+
+ Mismatched limbs
+
+ Bloated 
+
+ Molting
+
+ Bloodless 
+
+ Muscular
+
+ Brittle 
+
+ Mutation
+
+
+ Burning 
+
+No neck
+
+
+ Charged 
+
+ One eye
+
+
+ Clay-like 
+
+Ooze-form
+
+
+ Color 
+
+ Organ
+
+
+ Colossal 
+
+ Personality
+
+
+ Crystalline 
+
+ Poisonous
+
+
+ Decaying 
+
+ Potion
+
+
+ Delusion 
+
+ Powdery
+
+
+ Element skin 
+
+ Power
+
+
+ Elongated 
+
+ Pulsing
+
+
+Ethereal 
+
+Radioactive
+
+
+ Ever-young 
+
+ Reflective
+
+
+Eyeless 
+
+ Rubbery
+
+
+ Faceless 
+
+ Scent
+
+
+Flaking 
+
+ Shadowy
+
+
+ Flammable 
+
+ Sharp
+
+
+Flexible 
+
+ Short limbs
+
+
+ Fluffy 
+
+ Shriveled
+
+
+Foaming 
+
+ Skeletal
+
+
+ Fungal 
+
+ Skin shedding
+
+
+ Fuzzy 
+
+Slimy
+
+
+ Gaseous 
+
+ Smoking
+
+
+Gelatinous 
+
+Soft
+
+
+ Geometric 
+
+ Sooty
+
+
+ Hair shedding 
+
+ Sound
+
+
+ Hairless 
+
+ Sparking
+
+
+ Hairy 
+
+ Steaming
+
+
+ Hardened 
+
+ Sticky
+
+
+Headless 
+
+ Stinking
+
+
+ Ice-cold 
+
+ Stone-like
+
+
+Illusory 
+
+Stretchy
+
+
+ Iridescent 
+
+ Tactic
+
+
+Large head 
+
+Texture
+
+
+ Legless 
+
+ Tiny
+
+
+ Liquid 
+
+Translucent
+
+
+ Luminous 
+
+ Tree-like
+
+
+ Lumpy 
+
+Two-dimensional
+
+
+ Mannerism 
+
+ Venomous
+
+
+Many arms 
+
+Vibrating
+
+
+ Many eyes 
+
+Waxy
+
+
+ Many faces 
+
+Weakness

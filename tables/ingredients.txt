@@ -1,0 +1,241 @@
+
+ Animal 
+
+ Meadowsweet
+
+ Antimony 
+
+ Misc. item
+
+ Arsenic 
+
+ Mistletoe
+
+ Belladonna 
+
+ Monk’s vow
+
+ Bitumen 
+
+ Monster
+
+ Black pearl 
+
+ Moonflower
+
+ Blind eye 
+
+ Mugwort
+
+ Book 
+
+ Natron
+
+ Brimstone 
+
+ Nectar
+
+
+ Camphor 
+
+Nettle
+
+
+ Celandine 
+
+ Newborn’s cry
+
+
+ Chalk 
+
+Nickel
+
+
+ Clothing 
+
+ Nightshade
+
+
+ Cobalt 
+
+Organ
+
+
+ Cocklebur 
+
+ Platinum
+
+
+ Coffin nail 
+
+ Poppy
+
+
+ Columbine 
+
+ Potion
+
+
+ Copper 
+
+ Pyre ember
+
+
+ Corpse’s hair 
+
+ Queen bee
+
+
+Crossroad dust 
+
+ Queen’s blood
+
+
+ Dandelion 
+
+ Quicksilver
+
+
+Deathcap 
+
+ Ragwort
+
+
+ Devil’s trumpet 
+
+ Resin
+
+
+Element 
+
+ Rosemary
+
+
+ Fabric 
+
+ Sage
+
+
+ Food 
+
+ Sea water
+
+
+ Foxglove 
+
+ Ship’s barnacle
+
+
+Funeral wine 
+
+ Silver
+
+
+Gold 
+
+ Snakeweed
+
+
+Grave dust 
+
+Soot
+
+
+ Hellebore 
+
+ Star-metal
+
+
+Hemlock 
+
+Stinkhorn
+
+
+ Henbane 
+
+ Sugar
+
+
+ Holly 
+
+Thief’s finger
+
+
+ Honey 
+
+ Thistle
+
+
+ Hyssop 
+
+Tin
+
+
+ Iron 
+
+ Tomb flower
+
+
+ Killer’s hand 
+
+Tool
+
+
+ King’s tooth 
+
+Treasure
+
+
+Larkspur 
+
+Valerian
+
+
+ Last breath 
+
+ Verdigris
+
+
+Lead 
+
+Vinegar
+
+
+ Liar’s tongue 
+
+ Wax
+
+
+ Lightning bolt 
+
+Weapon
+
+
+ Lime 
+
+ Wedding ring
+
+
+ Lodestone 
+
+Widow’s tears
+
+
+ Lotus 
+
+ Witch hazel
+
+
+Lye 
+
+Wizard’s skull
+
+
+ Mandrake 
+
+Wolfsbane
+
+
+Material 
+
+Wormwood

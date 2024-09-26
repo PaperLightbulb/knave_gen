@@ -1,0 +1,100 @@
+ Alcohol 
+ Map
+ Alcove 
+ Material
+ Altar 
+ Mechanism
+ Archetype 
+ Message
+ Balcony 
+ Mine cart
+ Bars
+ Mirror
+ Bas-relief 
+ Misc. item
+ Bath 
+ Monster 
+ Bed 
+ Mural
+ Bones 
+Nest
+ Book
+ Painting
+ Brazier
+Pews
+ Broken glass
+ Pillar
+ Cabinet
+ Pipes
+ Cage 
+ Pool
+ Carpet 
+ Portcullis
+ Carvings 
+ Potion 
+ Cauldron 
+Refuse pile
+ Chains 
+Repairs
+Chalk marks 
+Roots
+ Chandelier 
+ Rubble
+Chest
+ Scent
+ Clothing 
+ Shaft
+Coffin 
+ Shelf
+ Coins 
+ Sign 
+Collapsed ceiling 
+ Skeletons
+ Collapsed floor 
+ Smoke
+Collapsed walls 
+ Sofa
+Crawlspace 
+ Sound 
+Crumbling ceiling
+Spyhole
+ Crumbling floors 
+ Stairs
+ Crumbling walls
+Stalactites
+ Curtain
+ Statues
+ Dais 
+ Stove
+ Dishes 
+ Street detail
+ Display case 
+ Symbol 
+ Dumbwaiter
+ Table
+ Elevator
+Tapestry
+ Fabric 
+Thick dust
+Fireplace 
+Throne
+ Flowing water
+ Toilet
+ Food 
+Tool
+ Fountain
+ Torch
+ Fungi 
+Torture device
+ Graffiti
+ Training dummy
+Hazard 
+Trap door
+ Incense 
+ Treasure 
+ Ingredient 
+Vines
+ Instrument 
+Wardrobe
+ Lantern 
+Weapon

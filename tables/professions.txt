@@ -1,0 +1,241 @@
+
+ Abbot 
+
+ Jailer
+
+ Acolyte 
+
+ Jester
+
+ Acrobat 
+
+ Jeweler
+
+ Adviser 
+
+ Juggler
+
+ Alchemist 
+
+ Knight
+
+ Apothecary 
+
+ Lady
+
+ Archer 
+
+ Locksmith
+
+ Archetype 
+
+ Magician
+
+ Artisan 
+
+ Mariner
+
+
+ Artist 
+
+Merchant
+
+
+ Baker 
+
+ Minstrel
+
+
+ Beggar 
+
+Monarch
+
+
+ Blacksmith 
+
+ Moneylender
+
+
+ Bookbinder 
+
+Monk
+
+
+ Brewer 
+
+ Musician
+
+
+ Burglar 
+
+ Orphan
+
+
+ Circus performer 
+
+ Outlander
+
+
+ Carpenter 
+
+Outlaw
+
+
+ Composer 
+
+ Page
+
+
+Cook 
+
+ Peddler
+
+
+ Count 
+
+ Pilgrim
+
+
+Courtier 
+
+ Poacher
+
+
+ Cutpurse 
+
+ Poisoner
+
+
+Doctor 
+
+ Priest
+
+
+ Dogcatcher 
+
+ Prince
+
+
+Dramaturge 
+
+ Privateer
+
+
+ Duke 
+
+ Ratcatcher
+
+
+Earl 
+
+ Scholar
+
+
+Eunuch 
+
+ Scribe
+
+
+ Executioner 
+
+Sellsword
+
+
+ Falconer 
+
+ Ship’s captain
+
+
+ Farmer 
+
+Shopkeeper
+
+
+ Fence 
+
+ Smuggler
+
+
+ Fisherman 
+
+ Soldier
+
+
+ Fishwife 
+
+ Spy
+
+
+ Fortuneteller 
+
+ Squire
+
+
+ Galley slave 
+
+ Student
+
+
+Gambler 
+
+ Swindler
+
+
+ Gardener 
+
+Tailor
+
+
+General 
+
+Tavern wench
+
+
+ Gladiator 
+
+ Thespian
+
+
+Governess 
+
+Tomb robber
+
+
+ Gravedigger 
+
+ Torturer
+
+
+Horse breeder 
+
+Trapper
+
+
+ Guard 
+
+ Urchin
+
+
+Herbalist 
+
+Vagrant
+
+
+ Hermit 
+
+ Viscount
+
+
+Hunter 
+
+Vizier
+
+
+ Innkeeper 
+
+Wigmaker
+
+
+ Interpreter 
+
+Young lady

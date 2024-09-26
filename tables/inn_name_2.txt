@@ -1,0 +1,241 @@
+
+ Animal 
+
+ Lantern
+
+ Ant 
+
+ Lion
+
+ Axe 
+
+ Lute
+
+ Barrel 
+
+ Mackerel
+
+ Bear 
+
+ Maid
+
+ Beaver 
+
+ Mermaid
+
+ Beetle 
+
+ Misc. item
+
+ Bell 
+
+ Mole
+
+ Boar 
+
+ Monk
+
+
+ Boot 
+
+Monster
+
+
+ Bowl 
+
+ Moon
+
+
+ Bucket 
+
+Mule
+
+
+ Bull 
+
+ Needle
+
+
+ Candle 
+
+ Noose
+
+
+ Cat 
+
+ Orb
+
+
+ Claw 
+
+ Pearl
+
+
+ Cloak 
+
+ Pig
+
+
+ Clothing 
+
+ Pipe
+
+
+ Cock 
+
+ Plow
+
+
+Coin 
+
+ Post
+
+
+ Comb 
+
+ Prince
+
+
+Cow 
+
+ Profession
+
+
+ Crow 
+
+ Queen
+
+
+Crown 
+
+ Rat
+
+
+ Cup 
+
+ Rose
+
+
+Door 
+
+ Saint
+
+
+ Dragon 
+
+ Serpent
+
+
+Eagle 
+
+ Shoe
+
+
+Egg 
+
+ Shovel
+
+
+ Elephant 
+
+Skull
+
+
+ Fish 
+
+ Sow
+
+
+ Flea 
+
+Spoon
+
+
+ Food 
+
+ Staff
+
+
+ Fork 
+
+ Star
+
+
+ Giant 
+
+ Stone
+
+
+ Griffin 
+
+ Sun
+
+
+ Hare 
+
+ Sword
+
+
+Hart 
+
+Thistle
+
+
+ Hawk 
+
+Thorn
+
+
+Hen 
+
+Torch
+
+
+ Hog 
+
+ Tower
+
+
+Hole 
+
+Unicorn
+
+
+ Horse 
+
+ Vulture
+
+
+Hound 
+
+Weapon
+
+
+ Jar 
+
+ Weasel
+
+
+Kettle 
+
+Whale
+
+
+ Key 
+
+ Wheel
+
+
+Knife 
+
+Whistle
+
+
+ Lamb 
+
+Wife
+
+
+ Lamp 
+
+Worm

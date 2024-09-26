@@ -1,0 +1,100 @@
+ Abbey 
+ Lighthouse
+ Altar 
+ Logging camp
+ Amphitheater 
+ Manor
+ Aqueduct
+ Market
+ Archive 
+ Memorial
+ Asylum 
+ Mill
+ Bandit camp
+ Mine
+ Barn
+ Monastery
+ Battlefield
+ Monolith
+ Bell tower
+Monument
+ Bonfire 
+ Mule track
+ Bower
+Obelisk
+ Brazier
+ Orchard
+ Building 
+ Outpost
+ Cairn 
+ Paved road
+ Cart track 
+ Pen
+ Castle 
+ Pilgrim camp
+ Catacomb 
+ Pillar
+ Chapel 
+ Port
+City
+ Prison
+ Cistern
+ Pyramid
+Convent
+ Refugee camp
+ Crossroads 
+ Road
+Dam 
+Room
+ Dirt road 
+ Ruin
+Dolmen 
+ Shepherd hut
+ Dungeon
+ Shrine
+Farm 
+ Signal tower
+ Ferry 
+ Stable
+ Festival 
+Statue
+ Fishing hut 
+ Stone bridge
+ Ford
+Stone circle
+ Forester lodge
+ Surveyor camp
+ Fort
+Tavern
+ Gallows
+ Temple
+ Garden
+Toll house
+ Garrison
+ Tomb
+Gate 
+Tower
+ Gibbet
+Town
+Graveyard 
+Trader camp
+ Hamlet
+ Trail
+Henge 
+Trap
+ Hermitage 
+ Village
+Hideout 
+Wall
+ Highway
+ Watchtower
+Hunter’s camp 
+Watermill
+ Hunting lodge 
+ Well
+ Inn 
+Windmill
+Keep 
+Wizard tower
+ Library 
+Wooden bridge

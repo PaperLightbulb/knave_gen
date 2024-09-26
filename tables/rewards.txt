@@ -1,0 +1,241 @@
+
+ A blind eye 
+
+ Location
+
+ Alcohol 
+
+ Machine
+
+ Animal 
+
+ Magic item
+
+ Armor 
+
+ Magical ally
+
+ Army 
+
+ Mansion
+
+ Artwork 
+
+ Material
+
+ Asset 
+
+ Meeting
+
+ Blackmail 
+
+ Mercenaries
+
+ Blessing 
+
+ Monster ally
+
+
+ Blueprints 
+
+Noble clothing
+
+
+ Building 
+
+ Noble title
+
+
+ Business 
+
+Palace
+
+
+ Caravel 
+
+ Pardon
+
+
+ Carriage 
+
+ Planar portal
+
+
+ Castle 
+
+ Political clout
+
+
+ Chapel 
+
+ Potion
+
+
+ Charter 
+
+ Printing press
+
+
+ Companion 
+
+Reduced sentence
+
+
+ Contract 
+
+ Location map
+
+
+Cottage 
+
+Relic
+
+
+ Craftsmen 
+
+ Religious clout
+
+
+Cypher 
+
+ Renown
+
+
+ Delivery 
+
+ Revenge
+
+
+Dungeon 
+
+ Rights
+
+
+ Dungeon map 
+
+ Royal clothing
+
+
+Endorsement 
+
+ Safe passage
+
+
+ Estate 
+
+ Secret
+
+
+Expert 
+
+ Servants
+
+
+ Faction ally 
+
+ Shortcut
+
+
+ Familiar 
+
+Sloop
+
+
+ Farm 
+
+ Social clout
+
+
+ Favor 
+
+Spell
+
+
+ Fishing boat 
+
+ Spices
+
+
+ Fleet 
+
+ Structure
+
+
+ Forge 
+
+ Temple
+
+
+ Formula 
+
+Theater
+
+
+ Galleon 
+
+ Time extension
+
+
+Gold 
+
+Tower
+
+
+ Guide 
+
+Training
+
+
+Guildhall 
+
+Transformation
+
+
+ Healing 
+
+ Transport
+
+
+Hideout 
+
+Treasure
+
+
+ Hirelings 
+
+ Treasure map
+
+
+Hounds 
+
+Vineyard
+
+
+ House 
+
+ Wagon
+
+
+ Influential ally 
+
+Warband
+
+
+ Inn 
+
+ Warhorse
+
+
+ Jewels 
+
+Wealthy clothing
+
+
+Key 
+
+Weakness
+
+
+ Livestock 
+
+Weapon

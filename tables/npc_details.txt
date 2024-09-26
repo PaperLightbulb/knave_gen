@@ -1,0 +1,241 @@
+
+ Acid scar 
+
+ Missing finger
+
+ Aquiline face 
+
+ Missing foot
+
+ Arrow scar 
+
+ Missing hand
+
+ Athletic 
+
+ Missing leg
+
+ Bad eyesight 
+
+ Missing teeth
+
+ Bald 
+
+ Mutation
+
+ Balding 
+
+ Mute
+
+ Beautiful 
+
+ No eyebrows
+
+ Birthmark 
+
+ Noose scar
+
+
+ Bite mark 
+
+ Oily
+
+
+ Blade scar 
+
+ Pageboy hair
+
+
+ Blind 
+
+ Perfect posture
+
+
+ Blunt face 
+
+ Perfumed
+
+
+ Bony 
+
+ Piercings
+
+
+ Braided hair 
+
+ Pointed face
+
+
+ Brawny 
+
+ Ponytail
+
+
+ Bristly hair 
+
+ Pox scars
+
+
+ Broken nose 
+
+ Ripped
+
+
+ Burn scar 
+
+ Ritual scar
+
+
+Bushy brows 
+
+ Rosy face
+
+
+ Childish face 
+
+ Rotten teeth
+
+
+Chiseled face 
+
+ Round face
+
+
+ Claw scar 
+
+ Rugged
+
+
+Coiffed 
+
+ Scrawny
+
+
+ Corpulent 
+
+ Shaggy hair
+
+
+Craggy face 
+
+ Sharp teeth
+
+
+ Crooked teeth 
+
+ Shriveled
+
+
+Cropped hair 
+
+ Silky hair
+
+
+Curly hair 
+
+ Sinewy
+
+
+ Deaf 
+
+ Slender
+
+
+ Delicate face 
+
+ Slicked hair
+
+
+ Dreadlocks 
+
+ Slouched
+
+
+ Filthy hair 
+
+ Smelly
+
+
+ Flabby 
+
+ Square face
+
+
+ Flat face 
+
+ Squint
+
+
+ Frail 
+
+ Statuesque
+
+
+ Freckles 
+
+ Stout
+
+
+ Furrowed face 
+
+ Sweaty
+
+
+ Gaunt 
+
+ Tattooed
+
+
+Gold tooth 
+
+ Tiny
+
+
+ Hard of hearing 
+
+ Topknot
+
+
+Hulking 
+
+ Towering
+
+
+ Lanky 
+
+ Twisted lip
+
+
+ Lantern jaw 
+
+ Very long hair
+
+
+ Limp 
+
+ Warts
+
+
+ Lumpy face 
+
+ Wavy hair
+
+
+ Luxurious hair 
+
+ Weathered face
+
+
+Missing arm 
+
+ Willowy
+
+
+ Missing ear 
+
+ Wiry
+
+
+ Missing eye 
+
+ Wispy hair

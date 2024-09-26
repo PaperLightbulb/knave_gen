@@ -1,0 +1,244 @@
+
+ Ages backwards 
+
+ Head swells
+
+ Ages faster 
+
+ Horns
+
+ Animal body 
+ Invisible head
+
+ Animal ears 
+
+ Jelly arms
+
+ Animal eyes 
+
+ Legs grow
+
+ Animal form 
+
+ Long tongue
+
+ Animal head 
+
+ Lose d
+
+ inches
+
+ Animal limb 
+
+ Mannerism
+
+ Animal scent 
+
+ Mon. trait
+
+
+ Animal skin 
+
+No eyes
+
+
+ Animal tail 
+
+ No nose
+
+
+ Animal teeth 
+
+No teeth
+
+
+ Animal voice 
+
+ NPC detail
+
+
+ Antennae 
+
+ One arm
+
+
+ Antlers 
+
+ One eye
+
+
+ Arms grow 
+
+ One leg
+
+
+ Bat wings 
+
+ Organ
+
+
+ Beak 
+
+ Personality
+
+
+ Bird wings 
+
+ Pig snout
+
+
+Bleeds acid 
+
+ Power
+
+
+ Chameleon eyes 
+
+ Rat tail
+
+
+Claws 
+
+ Scales
+
+
+ Color skin 
+
+ Scent
+
+
+Crystal growth 
+
+ Scorpion tail
+
+
+ Drooling 
+
+ Shaggy fur
+
+
+Duck bill 
+
+ Shell
+
+
+ Ears grow 
+
+ Skin boils
+
+
+Elem. blood 
+
+ Skin hardens
+
+
+ Elem. body 
+
+ Skin pattern
+
+
+ Elem. breath 
+
+Skin sags
+
+
+ Emits fumes 
+
+ Skin shedding
+
+
+ Excretes ooze 
+
+Smoke breath
+
+
+ Extra arms 
+
+ Snake hair
+
+
+ Extra eyes 
+
+ Sound
+
+
+ Extra fingers 
+
+ Spines
+
+
+ Extra heads 
+
+ Spinnerets
+
+
+ Extra legs 
+
+ Suction cups
+
+
+ Eye stalks 
+
+ Sweats blood
+
+
+ Eyes grow 
+
+Tentacles
+
+
+Fangs 
+
+Texture body
+
+
+ Feathers 
+
+ Totally numb
+
+
+Feet swell 
+
+Translucent skin
+
+
+ Fins 
+
+ Transparent skin
+
+
+ Fly eyes 
+
+Tusks
+
+
+ Fungal growth 
+
+ Two faces
+
+
+Gain d
+
+ inches 
+
+Warts
+
+
+ Gills 
+
+ Webbed hands
+
+
+Hair growth 
+
+Weight doubles
+
+
+Hair loss 
+
+Weight halves
+
+
+Hands swell 
+
+Wooly
