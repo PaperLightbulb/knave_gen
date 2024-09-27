@@ -133,7 +133,7 @@ pub fn random_from_table (name: String, tables: List(#(String, List(String)))) -
 pub fn head(x) {
   case x {
     [head, .._] -> head
-    [] -> panic as "AAA"
+    [] -> panic as "Must select one of the tables"
   }
 }
 
